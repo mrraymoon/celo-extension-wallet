@@ -3,9 +3,9 @@
 Metamask like! ( by dsrv)
 www.dsrvlabs.com
 
-** Now we support baklava only!
-** Can charge fee only cUSD 
-** pass 100gwei + 500000unit when send tx
+- Now we support baklava only!
+- Can charge fee only cUSD 
+- pass 100gwei + 500000unit when send tx
 
 Needs Contribution!
 
